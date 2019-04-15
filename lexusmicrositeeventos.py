@@ -9,7 +9,7 @@ def eventOSSet(conditions, current_answers, previous_answers, consumer_id, flow_
         'password': '_&MnB4a3r3UaEqP-'
     }
 
-     keyword_mapping = {
+    keyword_mapping = {
     "first_name": null,
     "last_name": null,
     "email": null,
